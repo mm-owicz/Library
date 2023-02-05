@@ -1,0 +1,102 @@
+[
+  {
+    "id": 2,
+    "author": "Jeremy Clarkson",
+    "title": "Can You Make This Thing Go Faster",
+    "date": 2020,
+    "publisher": "Penguin Random House UK",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 5,
+    "author": "Jeremy Clarkson",
+    "title": "Diddly Squat - a Year on the Farm",
+    "date": 2020,
+    "publisher": "Penguin Random House UK",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 6,
+    "author": "Adam Mickiewicz",
+    "title": "Dziady cz. 7",
+    "date": 2012,
+    "publisher": "Penguin Random House UK",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 7,
+    "author": "Juliusz S\u0142owacki",
+    "title": "Balladyna",
+    "date": 1880,
+    "publisher": "PWN",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 3,
+    "author": "Margaret Atwood",
+    "title": "Serce Umiera Ostatnie",
+    "date": 2015,
+    "publisher": "Brown Book Group",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 4,
+    "author": "Sylvia Plath",
+    "title": "Szklany Klosz",
+    "date": 1963,
+    "publisher": "London Publishing Group",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 8,
+    "author": "Adam Mickiewicz",
+    "title": "Pan Tadeusz",
+    "date": 2013,
+    "publisher": "PWN",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 9,
+    "author": "Zbigniew Herbert",
+    "title": "Pan Cogito",
+    "date": 2017,
+    "publisher": "PWN",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 10,
+    "author": "Stanis\u0142aw Lem",
+    "title": "Solaris",
+    "date": 2007,
+    "publisher": "PWN",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  },
+  {
+    "id": 11,
+    "author": "Stanis\u0142aw Lem",
+    "title": "Solaris cz. 2",
+    "date": 2009,
+    "publisher": "PWN",
+    "user": "",
+    "reserved": "",
+    "leased": ""
+  }
+]

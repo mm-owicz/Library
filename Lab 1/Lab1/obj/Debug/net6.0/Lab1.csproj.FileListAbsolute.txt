@@ -1,0 +1,84 @@
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\appsettings.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\Lab1.staticwebassets.runtime.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\scopedcss\projectbundle\Lab1.bundle.scp.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\users.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1\Lab1\bin\Debug\net6.0\books.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\appsettings.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\books.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\users.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\Lab1.staticwebassets.runtime.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\scopedcss\projectbundle\Lab1.bundle.scp.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab1 - Copy\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\appsettings.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\books.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\users.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\Lab1.staticwebassets.runtime.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\scopedcss\projectbundle\Lab1.bundle.scp.css
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\magma\Desktop\Folder\Studia\Semestr 5\NTR\Lab 1\Lab1\obj\Debug\net6.0\ref\Lab1.dll

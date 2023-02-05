@@ -1,0 +1,59 @@
+@using System.Security.Claims
+@model List<Book>
+
+@{
+    ViewData["Title"] = "Books";
+    var role = User.Claims.First(c => c.Type == ClaimTypes.Role).Value;
+    if (@TempData["error"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["error"]
+        <button type="button" class="close" data-bs-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        </div>
+    }
+}
+
+
+<h1>Library - leased books</h1>
+
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+        <th scope="col">Book Title</th>
+        <th scope="col">Book Author</th>
+        <th scope="col">Publisher</th>
+        <th scope="col">Date leased</th>
+        @if (role == "librarian"){
+        <th scope="col">User</th>
+        <th scope="col">Mark returned</th>
+        }
+    </tr>
+  </thead>
+  <tbody>
+    @{
+       foreach(var book in Model)
+        {
+        <tr>
+        <td>@book.title</td>
+        <td>@book.author</td>
+        <td>@book.publisher</td>
+        <td>@book.leased</td>
+        @if (role == "librarian"){
+            <td>@book.user</td>
+            <td>
+                <form method="post">
+                    <input type="hidden" name="bookID" value=@book.id />
+                    <button class="btn btn-primary" asp-controller="Book" asp-action="MarkReturned">Mark returned</button>
+                </form>
+            </td>
+        }
+        </tr>
+        }
+    }
+
+
+  </tbody>
+</table>

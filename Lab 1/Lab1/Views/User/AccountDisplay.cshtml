@@ -1,0 +1,44 @@
+@using System.Security.Claims
+
+@{
+    ViewData["Title"] = "AccountDisplay";
+    var user = User.Claims.First(c => c.Type == ClaimTypes.Name).Value;
+    var role = User.Claims.First(c => c.Type == ClaimTypes.Role).Value;
+
+}
+
+<h1>My Account</h1>
+
+<div class="container">
+  <div class="row">
+    <div class="col">Username</div>
+    <div class="col">@user</div>
+    <div class="w-100"></div>
+    <div class="col">User type</div>
+    <div class="col">@role</div>
+  </div>
+  @{
+    if (role == "user"){
+        <form method="post">
+            <input type="hidden" name="username" value=@user />
+            <button class="primary" asp-controller="User" asp-action="DelAccount">Delete my account</button>
+            @{
+                if (TempData["error"] is not null)
+                {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    @TempData["error"]
+                    <button type="button" class="close" data-bs-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                }
+
+            }
+        </form>
+    }
+
+  }
+  <form method="post">
+        <button class="primary" asp-controller="User" asp-action="LogOut">Log Out</button>
+    </form>
+</div>

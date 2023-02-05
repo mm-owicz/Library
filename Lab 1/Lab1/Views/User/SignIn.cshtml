@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "SignIn";
+}
+
+<h1>SignIn</h1>
+
+<div class="form-control form-control-sm">
+
+<form method="post">
+  <!-- Login input -->
+  <div class="form-outline mb-4">
+    <input type="text" id="user" name="user" class="form-control" />
+    <label class="form-label" for="user">Username</label>
+  </div>
+
+  <!-- Password input -->
+  <div class="form-outline mb-4">
+    <input type="password" id="pwd" name="pwd" class="form-control" />
+    <label class="form-label" for="pwd">Password</label>
+  </div>
+
+  <!-- Submit button -->
+  <button type="submit" class="btn btn-primary btn-block mb-4">Create account</button>
+    @{
+        if (TempData["errors"] is not null)
+        {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["error"]
+            <button type="button" class="close" data-bs-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        }
+
+    }
+</form>
+</div>
